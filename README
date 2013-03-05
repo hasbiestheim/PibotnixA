@@ -1,0 +1,6 @@
+server.py is the Raspberry Pi robot server Python script.
+client.py is for the PC with USB joystick to control the robot.
+
+All mp3 playback on the server script have been commented out since the files
+are not included with the code.  You can see how I got them to play and use
+your own mp3 files if you want.
